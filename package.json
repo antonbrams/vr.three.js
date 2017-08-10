@@ -1,20 +1,77 @@
 {
-  "name": "vr",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "vr.three.js@git+https://github.com/antonkluev/vr.three.js.git",
+        "scope": null,
+        "escapedName": "vr.three.js",
+        "name": "vr.three.js",
+        "rawSpec": "git+https://github.com/antonkluev/vr.three.js.git",
+        "spec": "git+https://github.com/antonkluev/vr.three.js.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:antonkluev/vr.three.js.git",
+          "sshUrl": "git+ssh://git@github.com/antonkluev/vr.three.js.git",
+          "httpsUrl": "git+https://github.com/antonkluev/vr.three.js.git",
+          "gitUrl": "git://github.com/antonkluev/vr.three.js.git",
+          "shortcut": "github:antonkluev/vr.three.js",
+          "directUrl": "https://raw.githubusercontent.com/antonkluev/vr.three.js/master/package.json"
+        }
+      },
+      "/Users/antonkluev/Desktop/Dev/uni/visu/1 semester/timeDNA"
+    ]
+  ],
+  "_from": "git+https://github.com/antonkluev/vr.three.js.git",
+  "_id": "vr@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/vr",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vr.three.js@git+https://github.com/antonkluev/vr.three.js.git",
+    "scope": null,
+    "escapedName": "vr.three.js",
+    "name": "vr.three.js",
+    "rawSpec": "git+https://github.com/antonkluev/vr.three.js.git",
+    "spec": "git+https://github.com/antonkluev/vr.three.js.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:antonkluev/vr.three.js.git",
+      "sshUrl": "git+ssh://git@github.com/antonkluev/vr.three.js.git",
+      "httpsUrl": "git+https://github.com/antonkluev/vr.three.js.git",
+      "gitUrl": "git://github.com/antonkluev/vr.three.js.git",
+      "shortcut": "github:antonkluev/vr.three.js",
+      "directUrl": "https://raw.githubusercontent.com/antonkluev/vr.three.js/master/package.json"
+    }
   },
+  "_requiredBy": [],
+  "_resolved": "git+https://github.com/antonkluev/vr.three.js.git#59e41015ca45dbdf3c8cf737c3bf9f7bc81b6d10",
+  "_shasum": "c749819c911f9aff110908e732cb6c0f6e7a61f3",
+  "_shrinkwrap": null,
+  "_spec": "vr.three.js@git+https://github.com/antonkluev/vr.three.js.git",
+  "_where": "/Users/antonkluev/Desktop/Dev/uni/visu/1 semester/timeDNA",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/antonkluev/vr.three.js/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "gitHead": "59e41015ca45dbdf3c8cf737c3bf9f7bc81b6d10",
+  "homepage": "https://github.com/antonkluev/vr.three.js#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "vr",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/antonkluev/vr.three.js.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/antonkluev/vr.three.js/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/antonkluev/vr.three.js#readme"
+  "version": "1.0.0"
 }
